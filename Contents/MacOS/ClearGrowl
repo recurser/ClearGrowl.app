@@ -1,0 +1,17 @@
+#!/bin/bash
+
+GROWLAPP=/Library/PreferencePanes/Growl.prefPane/Contents/Resources/GrowlHelperApp.app
+
+function running {
+  TARGET=$1
+  MATCH=$2
+  RESULT=`ps auxwww | grep GrowlHelperApp | grep -v grep|awk '{print $2}'`
+  if [[ $RESULT != "" ]]
+  then
+    kill $RESULT
+  fi
+  sleep 1
+  open ${GROWLAPP}
+}
+
+running
