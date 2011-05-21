@@ -2,13 +2,13 @@
 About
 -----
 
-This is a simple application for OS X that clears all you growl notifications. It's useful in conjunction with application launchers such as LaunchBar or Alfred to quicly clear your screen.
+This is a simple application for OS X that clears all you growl notifications. It's useful in conjunction with application launchers such as LaunchBar or Alfred to quickly clear your screen.
 
 
 License
 -------
 
-This program is distributed under the "MIT License":http://en.wikipedia.org/wiki/MIT_license. See the "License":https://github.com/recurser/ClearGrowl.app/blob/master/LICENSE file for details.
+This program is distributed under the [MIT License](http://en.wikipedia.org/wiki/MIT_license). See the [License](https://github.com/recurser/ClearGrowl.app/blob/master/LICENSE) file for details.
 
 
 Installation
