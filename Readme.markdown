@@ -39,7 +39,7 @@ Contributing
 
 Once you've made your commits:
 
-1. [Fork](http://help.github.com/fork-a-repo/ jekyll-plugins)
+1. [Fork](http://help.github.com/fork-a-repo/) ClearGrowl.app
 2. Create a topic branch - `git checkout -b my_branch`
 3. Push to your branch - `git push origin my_branch`
 4. Create a [Pull Request](http://help.github.com/pull-requests/) from your branch
