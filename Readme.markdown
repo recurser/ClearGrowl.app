@@ -16,7 +16,7 @@ Installation
 
 To install it, simply clone it into your applications folder :
 
-```
+``` bash
 > cd /Applications
 > git@github.com:recurser/ClearGrowl.app.git
 ```
