@@ -2,9 +2,15 @@
 About
 -----
 
-This is a simple application for OS X that clears all of your growl notifications. It's useful in conjunction with application launchers such as LaunchBar or Alfred to quickly clear your screen.
+This is a simple application for OS X that clears all of your [Growl](http://growl.info/) notifications. It's useful in conjunction with application launchers such as [LaunchBar](http://www.obdev.at/products/launchbar/index.html) or [Alfred](http://www.alfredapp.com/) to quickly clear your screen.
 
 ![ClearGrowl In Alfred](http://recursive-design.com/images/projects/clear-growl/ClearGrowl_In_Alfred.png)
+
+
+Usage
+-----
+
+The app is basically just a wrapper for a [simple shell script](https://github.com/recurser/ClearGrowl.app/blob/master/Contents/MacOS/ClearGrowl). To use it, just double-click the application icon and it should clear all growl notifications and close. There is no interface, so it will appear that it's not doing anything at all unless you have some growl messages displayed.
 
 License
 -------
