@@ -21,11 +21,11 @@ This program is distributed under the [MIT License](http://en.wikipedia.org/wiki
 Installation
 ------------
 
-To install it, simply clone it into your applications folder :
+To install it, simply clone it into your applications folder (or wherever you want, really) :
 
 ``` bash
 > cd /Applications
-> git@github.com:recurser/ClearGrowl.app.git
+> git clone git://github.com/recurser/ClearGrowl.app.git
 ```
 
 
