@@ -4,7 +4,7 @@ About
 
 This is a simple application for OS X that clears all of your [Growl](http://growl.info/) notifications. It's useful in conjunction with application launchers such as [LaunchBar](http://www.obdev.at/products/launchbar/index.html) or [Alfred](http://www.alfredapp.com/) to quickly clear your screen.
 
-![ClearGrowl In Alfred](http://recursive-design.com/images/projects/clear-growl/ClearGrowl_In_Alfred.png)
+![ClearGrowl In Alfred](http://www.daveperrett.com/images/projects/clear-growl/ClearGrowl_In_Alfred.png)
 
 
 Usage
@@ -56,4 +56,4 @@ Once you've made your commits:
 Author
 ------
 
-Dave Perrett :: mail@recursive-design.com :: [@recurser](http://twitter.com/recurser)
+Dave Perrett :: hello@daveperrett.com :: [@daveperrett](http://twitter.com/daveperrett)
